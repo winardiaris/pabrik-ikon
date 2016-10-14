@@ -1,4 +1,4 @@
-# Pabrikon
+# Pabrikon is a FREE logo to distribute 
 
 Pabrikon can run on all GNU/Linux distributions and designed to help GNU/Linux distro developers, especially for the artwork team to create and manage their own icons.
 
@@ -164,3 +164,5 @@ EXAMPLES
 # TODO
 
 In the future Pabrik-Ikon will be extended to a GUI-based application with more features : a friendly interface to create a new project, import / export projects, one-on-one / many for export png, use Inkscape for editing, managing symlink and so on.
+
+edited by jsusilo
